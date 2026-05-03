@@ -1,4 +1,4 @@
-# Ticket Management System
+# Cloud Based Ticket Management System
 
 A comprehensive ticket management system where users can raise support tickets, view their status, and administrators can manage these tickets (assign, resolve, etc.). This system comprises a **Django REST API backend** and a **React frontend**.
 
